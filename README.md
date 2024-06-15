@@ -13,7 +13,7 @@ This project manages and analyzes pet data from the provided `pets.csv` file. It
 ## Setup
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/MyPetStoreDataAnalysis.git
+    git clone https://github.com/parthchunara22/MyPetStoreDataAnalysis.git
     cd MyPetStoreDataAnalysis
     ```
 
