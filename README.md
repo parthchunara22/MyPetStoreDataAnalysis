@@ -13,7 +13,7 @@ This project manages and analyzes pet data from the provided `pets.csv` file. It
 ## Setup
 1. Clone the repository:
     ```bash
-    git clone https://github.com/parthchunara22/MyPetStoreDataAnalysis.git
+    git clone https://github.com/yourusername/MyPetStoreDataAnalysis.git
     cd MyPetStoreDataAnalysis
     ```
 
@@ -39,4 +39,5 @@ This project manages and analyzes pet data from the provided `pets.csv` file. It
 - `plot_price_vs_age(df)`: Plots price vs. age.
 - `plot_age_distribution_by_species(df)`: Plots age distribution by species.
 
-
+## Screenshots
+Include screenshots showing the project running here.
